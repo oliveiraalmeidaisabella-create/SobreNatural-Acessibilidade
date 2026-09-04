@@ -74,7 +74,7 @@ section {
 }
 
 
-#tim-maia {
+#imagem copy2.png {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
@@ -85,7 +85,7 @@ section {
     /* Ajuste o tamanho conforme necessário */
 }
 
-#tim-maia .container {
+ .container {
     display: flex;
     align-items: center;
     justify-content: center;
